@@ -1,4 +1,0 @@
-suites:
-  library_suite:
-    namespace: Appsketch\HumanCron
-    psr4_prefix: Appsketch\HumanCron

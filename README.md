@@ -1,5 +1,7 @@
 # Human Cron
 
+[![Latest Stable Version](https://poser.pugx.org/appsketch/human-cron/v/stable)](https://packagist.org/packages/appsketch/human-cron) [![Total Downloads](https://poser.pugx.org/appsketch/human-cron/downloads)](https://packagist.org/packages/appsketch/human-cron) [![Latest Unstable Version](https://poser.pugx.org/appsketch/human-cron/v/unstable)](https://packagist.org/packages/appsketch/human-cron) [![License](https://poser.pugx.org/appsketch/human-cron/license)](https://packagist.org/packages/appsketch/human-cron)
+
 ## Installation
 
 First, pull in the package through Composer.
